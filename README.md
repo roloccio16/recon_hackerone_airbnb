@@ -89,6 +89,15 @@ El resultado de esta operación fue una lista depurada de rutas funcionales sobr
 
 Estas rutas representan potenciales superficies de ataque que podrían ser auditadas en profundidad en fases posteriores del pentest o bug bounty.
 
+Use gowitness para comprobar las urls conseguidas, fueron mas de 170k, no saque gran cosa, la gran mayoría de capturas eran asi.
+
+![alt text](https---www.airbnb.com-443-.jpeg)
+![alt text](https---airbnb.com-443.jpeg)
+
+Y las esperadas:
+
+![alt text](https---www.airbnb.com-443-.-5B6.jpeg)
+
 ### Rango de IPs – Infraestructura de Red (RIPE)
 
 Durante el análisis se identificaron los siguientes rangos de IP asociados mediante consultas a RIPE:
